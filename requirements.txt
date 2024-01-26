@@ -1,0 +1,8 @@
+base58
+ecdsa
+crypto
+bech32
+aiohttp
+asyncio
+colorama
+pycryptodome
